@@ -15,5 +15,5 @@ Welcome to my personal web development project! This repository showcases my res
 ## Project Overview
 This project is part of my ongoing journey as a front-end developer. I’ve built it to not only showcase my work but also to apply what I've been learning about **web development**. The portfolio will continue to evolve as I learn more about **JavaScript**, **front-end frameworks**, and **UX/UI design**.
 
-## How to View the Project
-You can view the project live by visiting the deployed link (if available).
+## View the Project
+[Live Demo](https://usama0155.github.io/static-portfolio/)
